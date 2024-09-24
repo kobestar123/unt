@@ -13,7 +13,7 @@ export default function Sidebar({ open, onOpenChange }: { open: boolean; onOpenC
       <SheetContent side="left" className="w-72">
         <SheetHeader>
           <SheetTitle>
-            <Lucide.Radius className="rotate-180 h-10 w-10 ml-2"></Lucide.Radius>
+            <Lucide.untitled className="rotate-180 h-10 w-10 ml-2"></Lucide.untitled>
           </SheetTitle>
         </SheetHeader>
 
