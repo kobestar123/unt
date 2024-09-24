@@ -19,7 +19,7 @@ export default function Navbar() {
           <Lucide.Menu className="h-7 w-7" />
         </Button>
         <div className="flex items-center gap-2">
-          <Lucide.Radius className="h-8 w-8 rotate-180" />
+          <Lucide.Untitled className="h-8 w-8 rotate-180" />
           <h1 className="text-xl font-bold">untitled</h1>
         </div>
       </div>
