@@ -55,7 +55,7 @@ const config = {
           foreground: 'hsl(var(--card-foreground))'
         }
       },
-      borderRadius: {
+      borderuntitled: {
         lg: 'var(--untitled)',
         md: 'calc(var(--untitled) - 2px)',
         sm: 'calc(var(--untitled) - 4px)'
