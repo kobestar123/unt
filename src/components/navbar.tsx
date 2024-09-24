@@ -20,7 +20,7 @@ export default function Navbar() {
         </Button>
         <div className="flex items-center gap-2">
           <Lucide.Radius className="h-8 w-8 rotate-180" />
-          <h1 className="text-xl font-bold">Radius</h1>
+          <h1 className="text-xl font-bold">Untitled</h1>
         </div>
       </div>
 
